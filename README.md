@@ -28,7 +28,4 @@
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
-<hr>
-<br>
-
 ---
