@@ -8,9 +8,9 @@
   <br>
 
 <div float="left" > 
-  <img width="345" src="https://github-readme-stats.vercel.app/api?username=loltolo-lesapiti&show_icons=true&theme=onedark"/> &nbsp;
-  <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=loltolo-lesapiti&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=loltolo-lesapiti&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+  <img width="345" src="https://github-readme-stats.vercel.app/api?username=loltolo-lesapiti&show_icons=true&theme=tokyonight"/> &nbsp;
+  <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=loltolo-lesapiti&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
+  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=loltolo-lesapiti&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
 <br>
 
