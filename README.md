@@ -1,6 +1,4 @@
 
-![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
-
 ## Hi there 👋 I am Petro
 
 - 🔭 I’m a passionate full-stack web developer from Kenya 💻
@@ -9,6 +7,8 @@
 - 👨‍💻 All of my projects are available @loltolo-lesapiti
 - ⚡ Fun fact: I love to socialize and support others!
   <br>
+
+![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
 
 <div float="left" > 
   <img width="345" src="https://github-readme-stats.vercel.app/api?username=loltolo-lesapiti&show_icons=true&theme=tokyonight"/> &nbsp;
