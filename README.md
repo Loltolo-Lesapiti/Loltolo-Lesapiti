@@ -1,12 +1,12 @@
-
 ## Hi there 👋 I am Petro
 
-- 🔭 I’m a passionate full-stack web developer from Kenya 💻
+- 🔭 I am a passionate full-stack web developer from Kenya 💻
 - 👓 Currently looking for new opportunities
 - 👯 I’m looking to collaborate on new projects on software developemnt.
 - 👨‍💻 All of my projects are available @loltolo-lesapiti
 - ⚡ Fun fact: I love to socialize and support others!
   <br>
+  ![](https://komarev.com/ghpvc/?username=loltolo-lesapiti&color=green)
 
 ![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
 
