@@ -4,7 +4,7 @@
 
 I'm a passionate full-stack developer from Kenya 🇰🇪, specializing in building scalable web applications with modern technologies. I focus on creating clean, efficient code and delivering exceptional user experiences from frontend to backend.
 
-🌐 **[View My Digital Card](https://lesapiti-8x10sn9af-petro-lesapitis-projects.vercel.app/)**
+🌐 **[View My Digital Card](https://lesapiti.vercel.app/)**
 
 ---
 
