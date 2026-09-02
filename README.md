@@ -4,7 +4,7 @@
 
 I design and build production-grade web applications, specializing in resilient backend architectures, cloud storage optimization, and modern frontend design.
 
-**[Digital Portfolio](https://lesapiti.vercel.app/)**&nbsp;&nbsp;•&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/petrolesapitiloltolo/)**&nbsp;&nbsp;•&nbsp;&nbsp;**[Email](mailto:petrolesapiti@gmail.com)**
+**[Digital Business Card](https://lesapiti.vercel.app/)**&nbsp;&nbsp;•&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/petrolesapitiloltolo/)**&nbsp;&nbsp;•&nbsp;&nbsp;**[Email](mailto:petrolesapiti@gmail.com)**
 
 ---
 
